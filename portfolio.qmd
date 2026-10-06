@@ -1,0 +1,38 @@
+---
+title: "Academic Portfolio"
+---
+
+## Select Publications
+
+* Richard, B, & Baker, D. H. (2026). [Neural responses to binocular in-phase and anti-phase stimuli](https://doi.org/10.1016/j.visres.2026.108829). Vision Research, 244, 108829.
+* Lu, C-K, Alonge, D., Richardson, N., & Richard, B. (2025). [A Log-Linear Analytics Approach to Cost Model Regularization for Inpatient Stays through Diagnostic Code Merging](https://doi.org/10.1016/j.health.2025.100431). Healthcare Analytics, 100431.
+* Richard, B., & Shafto, P. (2022). [Sensitivity to the slope of the amplitude spectrum is dependent on the spectral slopes of recently viewed environments: A visual adaptation study in modified reality](https://doi.org/10.1016/j.visres.2022.108056). Vision Research, 197, 108056.
+
+## Teaching Experience
+
+**Rutgers University – Newark**
+
+* Introduction to ethical issues in Data Science
+* Measurement and Testing
+* Data Visualization in R
+
+**Concordia University**
+
+* Introduction to Statistical Analysis II
+* Research Methods and Designs II
+* Fundamentals of Sensation and Perception
+
+## Supervised Undergraduate and Doctoral Students
+* Daniel Ortiz (2026 - current)
+* David Alonge (2025)
+* Victor Armani (2023 - 2025)
+* Paula Palles (2023 - 2024)
+* Elijah Waldron (2023 - 2024)
+* Williem Encarnacion (2022 - 2023)
+* Christino Barbosa (2022 - 2023)
+* Andrew White (2021 - 2022)
+* Christian Gomez (2020 - 2021)
+* Jake Whritmer, PhD (2017)
+* Anderson Reyes (2017 - 2018)
+* Freya Lygo, PhD (2015-2016)
+* Rebecca Birkett (2014)

@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Bruno Richard"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: portfolio.qmd
+        text: Portfolio
+      - href: Projects.qmd
+        text: Projects
+      - href: Bruno Richard - CV - October 2026.docx
+        text: CV
+
+format:
+  html:
+    theme:
+      light: Lumen
+      dark: darkly
+    css: styles.css
+    toc: true

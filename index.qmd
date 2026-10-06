@@ -1,0 +1,18 @@
+---
+title: "Bruno Richard"
+about:
+  template: jolla
+  image: DSC00522.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:bruno.richard@rutgers.edu
+    - icon: google
+      text: Google Scholar
+      href: http://tinyurl.com/yythjvu2
+    - icon: github
+      text: GitHub
+      href: https://github.com/brunoRichard
+---
+
+I am an Assistant Research Professor and the Program Manager of the Data Science program in the Department of Mathematics and Computer Science at Rutgers University–Newark. My research investigates visual perception, with a primary focus on spatial vision. I emphasize computational and data-driven approaches in my work, utilizing R, Python, and MATLAB for statistical modeling, data visualization, and processing complex neuroimaging and behavioral datasets. Prior to my current roles, I earned my PhD in Psychology from Concordia University and completed postdoctoral fellowships at the University of York and Rutgers Univeristy - Newark.

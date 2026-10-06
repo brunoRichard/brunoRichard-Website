@@ -1,0 +1,18 @@
+---
+title: "Past and Ongoing Projects"
+---
+
+## Neural Responses to Binocular In-Phase and Anti-Phase Stimuli
+
+![Figure 1: A. The spatial configuration of stimuli presented to observers in our experiment. Monocular conditions presented the sinusoidal grating to the left or right eye of observers (counterbalanced) while the other eye was presented with a gray screen set to mean luminance. Binocular conditions could be shown
+with stimuli in spatial phase, whereby the phase of both sinusoidal gratings was identical, or in spatial anti-phase, where the phase of the sinusoidal gratings presented to each eye was opposite. The background texture did not change throughout the trial to aid with binocular fusion. B. The temporal configuration of our stimuli. To generate SSVEPs, stimuli were contrast modulated in two ways: on/off (left Y axis) or counterphase (right Y axis). The oscillatory pattern could also be in phase (upper plot), where both stimuli were modulated in the same manner, or in counterphase (lower plot), where as one stimulus increased in contrast, the other decreased in contrast (or increased in opposite polarity). B. Example SSVEPs generated under binocular spatial and temporal in-phase viewing of stimuli for one observer, averaged across four electrodes (Oz, POz, O1, O2) and 12 repetitions. ](MethodsFigure.png){fig-align="center" width="80%"}
+
+The human visual system integrates input from both eyes to form a unified binocular representation of the world. Combining monocular inputs enhances sensitivity to the presented stimuli, particularly when the contrast is low or near detection threshold. This project explores if the integrative processes defined over multiple behavioural tasks are also reflected at the neural level. 
+
+The analysis evaluates binocular combinations using a two-stage contrast gain-control model, showing that parallel monocular channels can account for the data without phase selectivity being essential. 
+
+**Resources & Code:**
+
+* A computationally reproducible version of this manuscript is available on my GitHub repository [brunoRichard/SSVEP_Phase_AntiPhase](https://github.com/brunoRichard/SSVEP_Phase_AntiPhase)
+* The project utilizes MATLAB and EEGLAB for software and algorithms.
+* Link to the pusblished manuscript: [Neural responses to binocular in-phase and anti-phase stimuli](https://doi.org/10.1016/j.visres.2026.108829).

@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bruno Richard",
+    "section": "",
+    "text": "I am an Assistant Research Professor and the Program Manager of the Data Science program in the Department of Mathematics and Computer Science at Rutgers University–Newark. My research investigates visual perception, with a primary focus on spatial vision. I emphasize computational and data-driven approaches in my work, utilizing R, Python, and MATLAB for statistical modeling, data visualization, and processing complex neuroimaging and behavioral datasets. Prior to my current roles, I earned my PhD in Psychology from Concordia University and completed postdoctoral fellowships at the University of York and Rutgers Univeristy - Newark."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Academic Portfolio",
+    "section": "",
+    "text": "Richard, B, & Baker, D. H. (2026). Neural responses to binocular in-phase and anti-phase stimuli. Vision Research, 244, 108829.\nLu, C-K, Alonge, D., Richardson, N., & Richard, B. (2025). A Log-Linear Analytics Approach to Cost Model Regularization for Inpatient Stays through Diagnostic Code Merging. Healthcare Analytics, 100431.\nRichard, B., & Shafto, P. (2022). Sensitivity to the slope of the amplitude spectrum is dependent on the spectral slopes of recently viewed environments: A visual adaptation study in modified reality. Vision Research, 197, 108056."
+  },
+  {
+    "objectID": "portfolio.html#select-publications",
+    "href": "portfolio.html#select-publications",
+    "title": "Academic Portfolio",
+    "section": "",
+    "text": "Richard, B, & Baker, D. H. (2026). Neural responses to binocular in-phase and anti-phase stimuli. Vision Research, 244, 108829.\nLu, C-K, Alonge, D., Richardson, N., & Richard, B. (2025). A Log-Linear Analytics Approach to Cost Model Regularization for Inpatient Stays through Diagnostic Code Merging. Healthcare Analytics, 100431.\nRichard, B., & Shafto, P. (2022). Sensitivity to the slope of the amplitude spectrum is dependent on the spectral slopes of recently viewed environments: A visual adaptation study in modified reality. Vision Research, 197, 108056."
+  },
+  {
+    "objectID": "portfolio.html#teaching-experience",
+    "href": "portfolio.html#teaching-experience",
+    "title": "Academic Portfolio",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\nRutgers University – Newark\n\nIntroduction to ethical issues in Data Science\nMeasurement and Testing\nData Visualization in R\n\nConcordia University\n\nIntroduction to Statistical Analysis II\nResearch Methods and Designs II\nFundamentals of Sensation and Perception"
+  },
+  {
+    "objectID": "portfolio.html#supervised-undergraduate-students",
+    "href": "portfolio.html#supervised-undergraduate-students",
+    "title": "Academic Portfolio",
+    "section": "Supervised Undergraduate Students",
+    "text": "Supervised Undergraduate Students\n\nDavid Alonge (2025)[cite: 1]\nVictor Armani (2023 - 2025)[cite: 1]\nPaula Palles (2023 - 2024)[cite: 1]\nElijah Waldron (2023 - 2024)[cite: 1]\nWilliem Encarnacion (2022 - 2023)[cite: 1]\nChristino Barbosa (2022 - 2023)[cite: 1]\nAndrew White (2021 - 2022)[cite: 1]\nAnderson Reyes (2017 - 2018)[cite: 1]\nRebecca Birkett (2014)[cite: 1]"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "portfolio.html#supervised-undergraduate-and-doctoral-students",
+    "href": "portfolio.html#supervised-undergraduate-and-doctoral-students",
+    "title": "Academic Portfolio",
+    "section": "Supervised Undergraduate and Doctoral Students",
+    "text": "Supervised Undergraduate and Doctoral Students\n\nDaniel Ortiz (2026 - current)\nDavid Alonge (2025)\nVictor Armani (2023 - 2025)\nPaula Palles (2023 - 2024)\nElijah Waldron (2023 - 2024)\nWilliem Encarnacion (2022 - 2023)\nChristino Barbosa (2022 - 2023)\nAndrew White (2021 - 2022)\nChristian Gomez (2020 - 2021)\nJake Whritmer, PhD (2017)\nAnderson Reyes (2017 - 2018)\nFreya Lygo, PhD (2015-2016)\nRebecca Birkett (2014)"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Past and Ongoing Projects",
+    "section": "",
+    "text": "Figure 1: A. The spatial configuration of stimuli presented to observers in our experiment. Monocular conditions presented the sinusoidal grating to the left or right eye of observers (counterbalanced) while the other eye was presented with a gray screen set to mean luminance. Binocular conditions could be shown with stimuli in spatial phase, whereby the phase of both sinusoidal gratings was identical, or in spatial anti-phase, where the phase of the sinusoidal gratings presented to each eye was opposite. The background texture did not change throughout the trial to aid with binocular fusion. B. The temporal configuration of our stimuli. To generate SSVEPs, stimuli were contrast modulated in two ways: on/off (left Y axis) or counterphase (right Y axis). The oscillatory pattern could also be in phase (upper plot), where both stimuli were modulated in the same manner, or in counterphase (lower plot), where as one stimulus increased in contrast, the other decreased in contrast (or increased in opposite polarity). B. Example SSVEPs generated under binocular spatial and temporal in-phase viewing of stimuli for one observer, averaged across four electrodes (Oz, POz, O1, O2) and 12 repetitions.\n\n\nThe human visual system integrates input from both eyes to form a unified binocular representation of the world. Combining monocular inputs enhances sensitivity to the presented stimuli, particularly when the contrast is low or near detection threshold. This project explores if the integrative processes defined over multiple behavioural tasks are also reflected at the neural level.\nThe analysis evaluates binocular combinations using a two-stage contrast gain-control model, showing that parallel monocular channels can account for the data without phase selectivity being essential.\nResources & Code:\n\nA computationally reproducible version of this manuscript is available on my GitHub repository brunoRichard/SSVEP_Phase_AntiPhase\nThe project utilizes MATLAB and EEGLAB for software and algorithms.\nLink to the pusblished manuscript: Neural responses to binocular in-phase and anti-phase stimuli."
+  },
+  {
+    "objectID": "Projects.html#neural-responses-to-binocular-in-phase-and-anti-phase-stimuli",
+    "href": "Projects.html#neural-responses-to-binocular-in-phase-and-anti-phase-stimuli",
+    "title": "Past and Ongoing Projects",
+    "section": "",
+    "text": "Figure 1: A. The spatial configuration of stimuli presented to observers in our experiment. Monocular conditions presented the sinusoidal grating to the left or right eye of observers (counterbalanced) while the other eye was presented with a gray screen set to mean luminance. Binocular conditions could be shown with stimuli in spatial phase, whereby the phase of both sinusoidal gratings was identical, or in spatial anti-phase, where the phase of the sinusoidal gratings presented to each eye was opposite. The background texture did not change throughout the trial to aid with binocular fusion. B. The temporal configuration of our stimuli. To generate SSVEPs, stimuli were contrast modulated in two ways: on/off (left Y axis) or counterphase (right Y axis). The oscillatory pattern could also be in phase (upper plot), where both stimuli were modulated in the same manner, or in counterphase (lower plot), where as one stimulus increased in contrast, the other decreased in contrast (or increased in opposite polarity). B. Example SSVEPs generated under binocular spatial and temporal in-phase viewing of stimuli for one observer, averaged across four electrodes (Oz, POz, O1, O2) and 12 repetitions.\n\n\nThe human visual system integrates input from both eyes to form a unified binocular representation of the world. Combining monocular inputs enhances sensitivity to the presented stimuli, particularly when the contrast is low or near detection threshold. This project explores if the integrative processes defined over multiple behavioural tasks are also reflected at the neural level.\nThe analysis evaluates binocular combinations using a two-stage contrast gain-control model, showing that parallel monocular channels can account for the data without phase selectivity being essential.\nResources & Code:\n\nA computationally reproducible version of this manuscript is available on my GitHub repository brunoRichard/SSVEP_Phase_AntiPhase\nThe project utilizes MATLAB and EEGLAB for software and algorithms.\nLink to the pusblished manuscript: Neural responses to binocular in-phase and anti-phase stimuli."
+  }
+]
